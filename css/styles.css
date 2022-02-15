@@ -1,0 +1,9 @@
+.img {
+    background-image: url('../img/formulario-google-portada.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border: solid 2px black;
+}
